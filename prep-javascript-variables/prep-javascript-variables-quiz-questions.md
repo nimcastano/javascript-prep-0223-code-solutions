@@ -21,7 +21,7 @@ Booleans give us a value of true or false. This can be very useful when using co
 - What is the purpose of numbers in JavaScript?
 Numbers are used for mathematical equations within Javascript. They can be useful for comparisons or to process functions. They allow us to do counts. They even provide us with indices in arrays as well as the size of an array.
 - What does `null` mean in JavaScript?
-A value of null means the literal absence of a value. If treated as a boolean, it gives a false value.
+A value of null means the intentional absence of a value. If treated as a boolean, it gives a false value.
 ## Notes
 
 All student notes should be written here.
