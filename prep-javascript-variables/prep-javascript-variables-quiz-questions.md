@@ -11,7 +11,7 @@ The typeof operator returns the data type of a variable value.
 - Which keyword is used to declare a variable in JavaScript?
 There are three keywords used to declare a variable in Javascript: var, let and const.
 - Which characters is a JavaScript variable allowed to begin with?
-A Javascript variable must begin with a letter, but can start with a $ or an _.
+A Javascript variable must begin with a letter.
 - What are quotation marks used for in JavaScript?
 Quotation marks are used for string types of data.
 - What is the purpose of strings in JavaScript?
