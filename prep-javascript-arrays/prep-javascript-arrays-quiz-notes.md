@@ -9,7 +9,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 - What is the principal use of arrays?
 An array is principally used to hold multiple values. It can hold any kind of data type.
 - Describe the syntax (structure) of array-literals in JavaScript.
-Arrays are often declared with const. After the variable name and assignment operator, the values inside an array are held inside brackets, [].
+Arrays are often declared with const. After the variable name and assignment operator, the values inside an array are held inside brackets, []. Each item being separated by commas.
 - What number represents the **first** index of an array?
 The first index of an array is 0.
 - How can you access the last element of an array?
