@@ -17,7 +17,8 @@ The afterthought is evaluated at the end of the loop iteration.
 - What is the purpose of the **final expression** in a `for` loop?
 It is used to update/increment the counter variable initialized in the for loop.
 - What types of data should the `for...in` loop be used on?
-They are used to iterate over enumberable string properties.
+They are used to iterate over enumberable string properties. It is recommended to ONLY use the for in loop
+over objects.
 
 
 ## Notes
